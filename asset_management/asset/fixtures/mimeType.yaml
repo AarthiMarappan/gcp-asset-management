@@ -1,0 +1,80 @@
+- model: asset.MimeType
+  pk: 1
+  fields:
+    type: image/jpeg
+    fileType: 1
+- model: asset.MimeType
+  pk: 2
+  fields:
+    type: image/png
+    fileType: 1
+- model: asset.MimeType
+  pk: 3
+  fields:
+    type: text/plain
+    fileType: 2
+- model: asset.MimeType
+  pk: 4
+  fields:
+    type: text/csv
+    fileType: 2
+- model: asset.MimeType
+  pk: 5
+  fields:
+    type: application/vnd.oasis.opendocument.text
+    fileType: 2
+- model: asset.MimeType
+  pk: 6
+  fields:
+    type: application/vnd.oasis.opendocument.spreadsheet
+    fileType: 2
+- model: asset.MimeType
+  pk: 7
+  fields:
+    type: application/vnd.oasis.opendocument.presentation
+    fileType: 2
+- model: asset.MimeType
+  pk: 8
+  fields:
+    type: application/msword
+    fileType: 2
+- model: asset.MimeType
+  pk: 9
+  fields:
+    type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+    fileType: 2
+- model: asset.MimeType
+  pk: 10
+  fields:
+    type: application/vnd.ms-excel
+    fileType: 2
+- model: asset.MimeType
+  pk: 11
+  fields:
+    type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    fileType: 2
+- model: asset.MimeType
+  pk: 12
+  fields:
+    type: application/vnd.ms-powerpoint
+    fileType: 2
+- model: asset.MimeType
+  pk: 13
+  fields:
+    type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+    fileType: 2
+- model: asset.MimeType
+  pk: 14
+  fields:
+    type: application/pdf
+    fileType: 2
+- model: asset.MimeType
+  pk: 15
+  fields:
+    type: application/zip
+    fileType: 2
+- model: asset.MimeType
+  pk: 16
+  fields:
+    type: application/x-rar-compressed
+    fileType: 2

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-training-287909",
+  "private_key_id": "c37ebe238c70dffcca0c3dc8a04f828af7f34162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYzK1XZ4ke8cbS\n1g8zcwFInv4M7kUzgGJi7pXR1Rfd6GaLXsC+vSuSQYUPJIyaVT7y8U6FQLoD7LuT\npbqi1Rgh3vPnUnMxOb9mrfxBY1DVER5zoWY3DuThrrPMyaB1D/zcb65RY5xaoH/2\nAOk15PP11zYyLQerR0h8WrQP1TeX7KaZNL0bSg4OF0q0XkjyE8d/5XBsBQhfPbcB\nYXRaLr4TQjchlnBw/jSEDZQ97DO8gJvLtT2KtEMyeQ1nSombOsbNus7AgQsvP5zF\n9WaakKgwkkcGc7Q1MUiY+tRD+9B1HILTiBCfixj5yIWKmsSjlIlg/6bOdWhLBnOF\nxiFjr6r3AgMBAAECggEAQEbxsHAEdbj9i5mywVDivFrtwiDFiZm7SaTV73Q12wq1\ngHF2oYZQevEG+UzFvPKZTXeHMXT+C0Kd0cmIzpDX2v/AGJJNlOqXAqm0EQmnakoO\nRlQh/I1OaUWlq0MyNaxpEY4FhYVis5kK20Cc2igbHFLRIKBitoGBE5bQYkyuW0Dy\nae7naqn8B6lJcajHMrJb7c/XTsJVuCAXY4mdzJqHwC1GVmfoGWUWFjUBLouKtDL7\nyTaFb8O5UvLykSpEDfAaNGGf8X5lVUi99sp2UDJH6hwW5UK6jwhRehUUms2chExh\n7a0mYX5EYtBF9RtEpVxwFEHkfsIF4r/NliQXoBrKiQKBgQDPZpVsS2ZyZi8pw5j+\nS+Nrm+gMxGiTzUS2WVoF8hBwYAJWQAeKBvjq8KOjPVCLOVI+GPtfcYg0hiHTXcUA\nqqCJHfT3nByov2amMdp5PihFJMa8kH7h8NwG+pRADPvNMGah7Mh9aEMqSNKoW8QF\nGBirsG0hg5W6o3N9u90f5BGx2wKBgQC8mraOBMu6UiPmfKi4dWMLVbJLQWC+Rsvx\ncL3KtJfVKf75qvb61K9QqH3iOTxA80z43KYG70EpwOzAQyQ6ISNMRSVJOe6YifVd\nur1Jzd/nPohZTGyqW9rm6VKUjNq+9CN6A6UeixRJMvlUaLSws0gvu4ej2JHzRbRn\nh+jlhyJ8FQKBgQCQxPh0OUVvgShWrLO0feBnEtKtZsPgt53I8yHFmKwk5L982QDq\nNee2hvaSUZBRPlfMBMAiZStADoi583A6AOBCFekSlaPjnobWZ2Iq01pkuUEICoym\nxeuv62VkOCvjlG9vg8qGzypi76Yr4rI3JBTEc0gZ5rGzL7jEAUhepGI9lQKBgFLK\nFxiAQm2nYNrsHaPa4382Pu2J5U2hBiUVuDoizANmS+aMhZ3Vfp+JVrjXJvvb0Q3s\nzXR90bziUwqSbnSV10jDkXpzU6jh5jMepbigBokbif6o7Ypah9yUzwsmSV9JC8mj\nj/e4VU9McOX8kFSAXk+VohTqHCcNkgNgRXt7tkeBAoGAeDjzW/wP+HO/ahkgfWqk\nUbB1utJNfM2bcI1AiAWOgvxeOT8AraU9Es+C4C2OuUJgpjFDAfRQh6UqbhRiwq6G\nx4T31y4jrCGmrKLhZioP9u+tI/D1zZP3BxjT9n/scbGe0AqieWurb9pI07+3W96R\nkxFwMpN8UJty2TvSS9tY944=\n-----END PRIVATE KEY-----\n",
+  "client_email": "asset-management@gcp-training-287909.iam.gserviceaccount.com",
+  "client_id": "116896663725014722407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asset-management%40gcp-training-287909.iam.gserviceaccount.com"
+}
